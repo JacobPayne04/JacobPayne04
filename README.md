@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob Payne
-- 👀 I’m interested in basketball,hikinh, and cars
+- 👀 I’m interested in basketball,hiking, and cars
 - 🌱 I’m currently learning java,java-script
 - 📫 How to reach me
 - @jacobPayne04 - instagram
