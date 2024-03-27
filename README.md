@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Payne
 - 👀 I’m interested in basketball,hiking, and cars
-- 🌱 I’m currently learning java,java-script
+- 🌱 I’m currently learning algorithoms and data structures
 - 📫 How to reach me
 - @jacobPayne04 - instagram
 - Jacob Payne - LinkedIn
