@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jacob Payne</h1>
 <h3 align="center">A passionate Software Engineer from Schaumburg, IL</h3>
 
-- Hi, Im currently working on a up and coming Videogame called **Shadows Of Betrayal**     
-  https://www.bumeagleproductions.com/
+- Hi, Im currently working on a up and coming RideShare platform called RideShare     
+ 
 
-- 🌱 I’m currently learning **Game development,c++**
+- 🌱 I’m currently learning **Scaleable system design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JacobPayne04](https://github.com/JacobPayne04)
 
